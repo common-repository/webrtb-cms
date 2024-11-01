@@ -1,0 +1,16 @@
+/* WebRTB Cms WP-ADMIN css */
+
+#webrtb-32-icon
+{
+	background: url("../images/icon32.png") no-repeat transparent;
+	float: left;
+    height: 32px;
+    margin: 6px 6px 0 0;
+    width: 32px;
+}
+
+/* hide elements */
+#footer-upgrade,#update-nag, .update-nag, .update-plugins, #contextual-help-link-wrap, #wp-version-message,.donation,.cf7com-links,#wp-admin-bar-wp-logo
+{
+	display:none;
+}

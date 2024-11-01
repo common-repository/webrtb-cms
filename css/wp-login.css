@@ -1,0 +1,8 @@
+/* WebRTB Cms WP-LOGIN css */
+
+h1 a, .login h1 a
+{
+	background:url("../images/logo1.png") no-repeat scroll center center transparent;
+	height:85px;
+	width:auto;
+}
